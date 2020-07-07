@@ -16,10 +16,16 @@ body {
 .text-center {
     text-align: center;
 }
-
+.show{
+    display: block !important;
+}
 header {
     margin: 0% 5%;
     line-height: 100px;
+}
+#menuButton{
+    display: none;
+    float: right;
 }
 header ul {
     margin: 0;
